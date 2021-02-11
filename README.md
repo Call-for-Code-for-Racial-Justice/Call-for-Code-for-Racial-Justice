@@ -14,7 +14,7 @@ Please see [CONTRIBUTING.md](CONTRIBUTING.md) for general project contribution g
 * [Legit Info](https://github.com/Call-for-Code-for-Racial-Justice/Legit-Info)
 * [Truth-Loop](https://github.com/Call-for-Code-for-Racial-Justice/Truth-Loop)
 * [Fair Change](https://github.com/Call-for-Code-for-Racial-Justice/fairchange)
-* [Take Two](https://github.com/Call-for-Code-for-Racial-Justice/TakeTwo)
+* [TakeTwo](https://github.com/Call-for-Code-for-Racial-Justice/TakeTwo)
 
 ## Links
 
