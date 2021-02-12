@@ -27,3 +27,7 @@ Please see [CONTRIBUTING.md](CONTRIBUTING.md) for general project contribution g
 * [Call for Code for Racial Justice on IBM Developer](https://developer.ibm.com/callforcode/racial-justice/)
 * [Call for Code with The Linux Foundation](https://www.linuxfoundation.org/projects/call-for-code/)
 * [Other Call for Code open source projects](https://github.com/Call-for-Code)
+
+## License
+
+This project is licensed under the Apache 2 License - see the [LICENSE](LICENSE) file for details. The projects above may be licensed under different licenses. Please see their repos for details.
