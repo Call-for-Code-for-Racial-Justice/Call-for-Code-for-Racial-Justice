@@ -6,7 +6,7 @@
 
 # Call for Code for Racial Justice
 
-The main repository for information on Call for Code for Racial Justice projects that are hosted by The Linux Foundation.
+The main repository for information on Call for Code for Racial Justice projects that are hosted by The Linux Foundation. Learn more about the history and context of each in this [Black History Month blog post](https://medium.com/callforcode/call-for-code-for-racial-justice-during-black-history-month-4ec0383f5983).
 
 ## Contributing
 
