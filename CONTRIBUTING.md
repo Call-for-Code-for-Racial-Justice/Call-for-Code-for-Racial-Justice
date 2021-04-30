@@ -7,6 +7,8 @@ All [pull requests](pulls) will require you to ensure the change is certified vi
 
 Please note we have a [Code of Conduct](#code-of-conduct), please follow it in all your interactions with the project and its community.
 
+Please read our founding [Technical Charter](Racial-Justice-Technical-Charter.pdf) to learn more about project governance.
+
 ## Pull Request Process
 
 1. Fork the repository. 
